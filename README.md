@@ -1,2 +1,2 @@
-# omozon-practica-react-
+# amozon-practica-react-
 practica basica de react 
